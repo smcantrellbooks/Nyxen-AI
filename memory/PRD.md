@@ -15,7 +15,7 @@ https://cdn1.site-media.eu/images/0/24185616/nyxen-hucYBsyp6NvKtsJFls-OUg.jpg
 - **AI Images**: APIFree.ai with ByteDance Seedream 4.5
 - **Voice Profiles**: 23 custom voices with .wav samples
 - **Design**: "Organic & Earthy" theme — Playfair Display, cream/charcoal palette
-- **Repo**: https://github.com/smcantrellbooks/Cantrell-Creatives
+- **Repo**: https://github.com/smcantrellbooks/nyxen-ai
 
 ## Roles
 - **Publisher Workspace (Home Base)**: Full-service creative writing assistant — helps write, edit, structure manuscripts, generate content when asked
